@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:kothapalliyoshitha@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/yoshitha-kothapalli">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/yoshitha-kothapalli-070520280/">💼 LinkedIn</a> •
   <a href="https://github.com/yoshitha2005">🛠 GitHub</a> •
   <a href="https://drive.google.com/file/d/1ebPH2sAOAtFfX8gQGmQFSE6qKGi2mxXP/view?usp=drive_link">📄 Resume</a>
 </p>
