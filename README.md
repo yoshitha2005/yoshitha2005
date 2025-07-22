@@ -28,68 +28,81 @@
 
 ### 💻 Tech Stack
 
-| Area                     | Tools & Technologies                                                                 |
-|--------------------------|----------------------------------------------------------------------------------------|
-| 👩‍💻 Programming          | Python, C, Java (Basics)                                                               |
-| 🌐 Web Development        | HTML, CSS, JavaScript, Bootstrap                                                      |
-| 📦 Databases              | MySQL, MongoDB (Basics)                                                               |
-| 📱 App Development        | Android Studio, XML, Firebase (in progress)                                           |
-| 🧠 AI/ML                  | Supervised Models, Preprocessing, Sklearn, Jupyter Notebook                           |
-| 📈 Tools & Platforms      | GitHub, Canva, Excel, Google Sheets, VS Code                                          |
-| 🎤 Soft Skills            | Leadership, Public Speaking, Communication, Active Listening, Teamwork                |
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
 ### 🚀 My Live Projects & Innovation Highlights
 
 #### 🛡️ Women Safety Analytics Device
-🔬 *A Machine Learning-based system to detect unsafe environments for women*  
-✔️ Features:  
-- Person Detection  
-- Gender Classification  
-- Lone Woman Detection Logic  
-- SOS Scenario Visualization  
+> 🔬 *A Machine Learning-based system to detect unsafe environments for women.*
+
+- 🧠 Person Detection  
+- 🙎‍♀️ Gender Classification  
+- 🚶‍♀️ Lone Woman Detection Logic  
+- 🆘 SOS Scenario Simulation  
 
 📌 Presented at **Smart India Hackathon 2024**  
-🔗 [Presentation](https://docs.google.com/presentation/d/1k5ON3S8tvLCLpuRZA-Ez_KeAW7Zfm5Yl)
+🔗 [📽️ Presentation](https://docs.google.com/presentation/d/1k5ON3S8tvLCLpuRZA-Ez_KeAW7Zfm5Yl)
 
 ---
 
 #### 🌸 Tribute Page Website
-🖌️ *A digital homage to Dr. Droupadi Murmu (15th President of India)*  
-💡 Built with HTML, CSS, and responsive design principles  
-🔗 [Live Demo](https://drive.google.com/file/d/13Abvaj5taj8gsh6QUv6r1EZOHh4ktjk3/view)
+
+> 🖌️ *A digital homage to Dr. Droupadi Murmu (15th President of India)*  
+> 💡 Designed using HTML, CSS, Bootstrap for responsiveness and accessibility.
+
+🔗 [🌐 View Project](https://drive.google.com/file/d/13Abvaj5taj8gsh6QUv6r1EZOHh4ktjk3/view)
 
 ---
 
 ### 📚 My Learning Path & Internships
 
-| Internship                        | Organization           | Highlights                                                  |
-|----------------------------------|------------------------|-------------------------------------------------------------|
-| 💻 Android Developer Intern      | Google x AICTE         | UI Design, App Components, Intent Handling                  |
-| 🧠 AI-ML Virtual Internship      | Google x AICTE         | ML models, data wrangling, prediction algorithms            |
-| 📊 Machine Learning Intern       | SkillDzire             | Implemented regression and classification algorithms        |
-| 🧩 Android Development Intern    | India Edu Program      | Created clean, modular Android UIs                          |
+<details>
+  <summary>📋 <strong>Click to Expand Internship Table</strong></summary><br>
+
+| Role                          | Organization         | Responsibilities                                          |
+|-------------------------------|----------------------|-----------------------------------------------------------|
+| 💻 Android Dev Intern         | Google x AICTE       | App Design, Activities, UI Components                     |
+| 🧠 AI-ML Virtual Intern       | Google x AICTE       | ML Pipelines, Preprocessing, Algorithms                   |
+| 📊 ML Intern                  | SkillDzire           | Regression & Classification Model Implementation          |
+| 📱 Android Intern             | India Edu Program    | Modular App Development, Navigation UI                    |
+
+</details>
 
 ---
 
 ### 🏅 Certifications
 
-- ✅ **Python for Data Science** – NPTEL  
-- ✅ **SQL Projects for Beginners**  
-- ✅ **MongoDB for Developers**  
-- ✅ **Front-End Web Development**  
-- ✅ **Machine Learning Crash Course** – Google  
-- ✅ **Women in Tech Workshop Attendee**  
+- 📜 **Python for Data Science** – *NPTEL*  
+- 📜 **SQL Projects for Beginners**  
+- 📜 **MongoDB for Developers**  
+- 📜 **Front-End Development**  
+- 📜 **Machine Learning Crash Course** – *Google*  
+- 📜 **Women in Tech Workshop Attendee**
 
 ---
 
 ### 🗣️ Co-Curriculars & Activities
 
-- 🏆 **Public Speaking & Debates** – Recognized for JAM & GD performance  
-- 🎙️ Anchored college events and conducted tech workshops  
-- 🎨 Designed posters & websites for student committees  
-- ✨ Motivated peers with the philosophy: *"What is permanent is the RESULT, not the REASON."*
+- 🥇 JAM & GD Speaker – Recognized for excellence  
+- 🎤 Hosted major academic & tech events  
+- 🎨 Poster designer & web creator for college fests  
+- ✨ *Personal Motto:* “**What is permanent is the RESULT, not the REASON.**”
 
 ---
 
@@ -112,6 +125,11 @@ If you're looking for someone who can bring **technical clarity with emotional i
 🔗 **Let's Connect:** [LinkedIn](https://linkedin.com/in/yoshitha-kothapalli) | [GitHub](https://github.com/yoshitha2005)
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=F77EB9&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting+my+profile!;Wishing+you+a+pink+and+powerful+day+%F0%9F%8C%B7%F0%9F%92%97" />
+</p>
+
 
 <p align="center">
   <b><i>“Some people dream of success, while others wake up and work hard for it.”</i></b> <br><br>
