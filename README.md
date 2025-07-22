@@ -16,7 +16,7 @@
 > I believe in turning **ideas into innovation**, and **learning into leadership**.  
 > I create things that not only work, but **connect**, **protect**, and **inspire**.
 
-🎓 I’m currently pursuing **B.Tech in CSE (Data Science)** at **Sasi Institute of Technology & Engineering** (Affiliated to JNTUK), with a CGPA of **89%**.
+🎓 I’m currently pursuing **B.Tech in CSE (Data Science)** at **Sasi Institute of Technology & Engineering** (Affiliated to JNTUK), with a CGPA of **8.9**.
 
 🌱 I’m passionate about:
 - Ethical AI & Women Safety 💪
